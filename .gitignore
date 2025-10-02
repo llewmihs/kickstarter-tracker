@@ -1,1 +1,6 @@
-
+node_modules/
+*.log
+.env
+debug_screenshot.png
+follower_data.json
+.DS_Store
